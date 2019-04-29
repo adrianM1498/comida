@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">comida</string>
+    <string name="alitas">alitas</string>
+    <string name="bienvenido">bienvenido</string>
+    <string name="listaplatos">lista de comidas</string>
+
+</resources>
